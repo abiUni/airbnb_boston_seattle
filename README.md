@@ -30,15 +30,15 @@ We mainly provide answers to the following questions:
 ## Summary
 * We found that mean listing prices in Boston were significantly higher than in Seattle 
 
-![image info](./pictures/image.png)
+![image info](./images/probability_density.png)
 
 * Availability is at its lowest around New year in Seattle and between August and October in Boston
 
-![image info](./pictures/image.png)
+![image info](./images/availability_per_day.png)
 
 * Neighbourhoods such as Back Bay, Fenway/Kenmore and Chinatown in Boston correlate most with listing price while Greenwood, North Beacon Hill and Maple Leaf in Seattle have the highest price correlation
 
-![image info](./pictures/image.png)
+![image info](./images/neighborhood_correlation.png)
 
 
 ## Acknowledgements
