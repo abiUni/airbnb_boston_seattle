@@ -24,7 +24,7 @@ This notebook makes use of the following libraries:
 In this notebook we analyse the differences between Boston and Seattle in terms of listing prices, availability and neighborhoods in order to help users decide based on their budget which city to choose for their vacation.
 We mainly provide answers to the following questions:
 * How do the prices compare between Boston and Seattle?
-* Which time of the year is availability highest in both cities?
+* Which time of the year is availability lowest in both cities?
 * How do neighborhood and amenities affect price?
 
 ## Summary
