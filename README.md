@@ -8,6 +8,10 @@ We use the following files in our analysis:
 
 Our dataset only includes the cities of Boston and Seattle and yearly calendar entries between 2016 and 2017
 
+## Folder Structure
+
+![image info](./images/folder_structure.png)
+
 ## Libraries
 This notebook makes use of the following libraries:
 * [Numpy](https://numpy.org/)
@@ -40,6 +44,9 @@ We mainly provide answers to the following questions:
 
 ![image info](./images/neighborhood_correlation.png)
 
+
+## Medium Blogpost
+An article explaining the results detailed in this notebook can be found [here](https://abirbouraffa.medium.com/east-coast-or-west-coast-38b90dda0dbe)
 
 ## Acknowledgements
 We would to acknowledge that analyses in this notebook were inspired by the [Kaggle notebook of Alexandra Deis](https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis) and the [Medium article of Nadim Kawwa](https://medium.com/@nadimkawwa/boston-what-determines-airbnb-prices-d5bc670454b6), many thanks!
